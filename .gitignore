@@ -1,0 +1,9 @@
+# Dataset
+mnist.npz
+
+# IDE
+.idea/
+
+# Python cache
+pycache/
+*.pyc
